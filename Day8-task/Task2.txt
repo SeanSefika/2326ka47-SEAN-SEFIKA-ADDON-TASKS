@@ -1,0 +1,29 @@
+mysql> insert into Student values('Keerthana',232622,'keerthana@gmail.com',21346587);
+Query OK, 1 row affected (0.03 sec)
+
+mysql> insert into student values('Harini',232614,'Harini@gmail.com',21345687);
+Query OK, 1 row affected (0.01 sec)
+
+mysql> insert into student values('vaishu',232656,'Vaishu@gmail.com',987654332);
+Query OK, 1 row affected (0.01 sec)
+
+mysql> insert into student values('Rubi',232642,'Rubi@gmail.com',987676547);
+Query OK, 1 row affected (0.01 sec)
+
+mysql> insert into student values('Uma',232642,'Uma@gmail.com',965390636);
+Query OK, 1 row affected (0.01 sec)
+
+mysql> insert into course values(10000);
+Query OK, 1 row affected (0.01 sec)
+
+mysql> insert into course values(20000);
+Query OK, 1 row affected (0.01 sec)
+
+mysql> insert into course values(30000);
+Query OK, 1 row affected (0.01 sec)
+
+mysql> insert into course values(40000);
+Query OK, 1 row affected (0.01 sec)
+
+mysql> insert into course values(50000);
+Query OK, 1 row affected (0.01 sec)
